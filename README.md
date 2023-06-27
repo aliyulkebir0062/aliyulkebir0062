@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="gorsel-link" width="auto">
+<img src="photo.jpg" width="auto">
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=aliyulkebir0062&show_icons=true&theme=radical)
