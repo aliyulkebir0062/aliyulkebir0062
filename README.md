@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="photo.jpg" width="auto">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyulkebir0062&hide_progress=true)
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=aliyulkebir0062&show_icons=true&theme=radical)
 
