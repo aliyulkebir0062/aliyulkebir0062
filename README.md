@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliyulkebir0062&repo=github-readme-stats)]([https://github.com/aliyulkebir0062/github-readme-stats](https://github.com/aliyulkebir0062/makine_ogrenimi))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliyulkebir0062&repo=github-readme-stats)]([https://github.com/aliyulkebir0062/github-readme-stats](https://github.com/aliyulkebir0062/makine_ogrenimi)
 
 <img src="photo.jpg" width="auto">
 
