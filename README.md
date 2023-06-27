@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <img src="gorsel-link" width="auto">
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=aliyulkebir0062&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=aliyulkebir0062&show_icons=true&theme=radical)
+
+
 view rawgistfile1.txt hosted with ❤ by GitHub
